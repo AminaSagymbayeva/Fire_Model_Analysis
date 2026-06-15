@@ -7,6 +7,11 @@ This tool was created for the analysis of ensemble simulations produced by PyrE,
 
 We appreciate your feedback and contrubution!
 
+**How to use it:**
+The tool can be run on your local PC or Google Colab. Please ensure that you download (upload to you cloud space) and unzip supporting files beforehand and provide the path to it in the tool script. 
+
+Please read carefully the comments and instruction provided in the script to run the tool. Please provide the path to all files in the first cell as instructed.
+
 **References:**
 *  Chen, Y., Hall, J., Dave van Wees, Niels Andela, Stijn Hantson, Giglio, L., van, Morton, D. C., & Randerson, J. T. (2023). Multi-decadal trends and variability in burned area from the fifth version of the Global Fire Emissions Database (GFED5). Earth System Science Data, 15(11), 5227–5259. https://doi.org/10.5194/essd-15-5227-2023
 *  Mezuman, K., Kostas Tsigaridis, Faluvegi, G., & Bauer, S. E. (2020). The interactive global fire module pyrE (v1.0). Geoscientific Model Development, 13(7), 3091–3118. https://doi.org/10.5194/gmd-13-3091-2020
